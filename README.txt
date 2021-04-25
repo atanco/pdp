@@ -54,8 +54,15 @@ All cells of the jupyter-notebook should be run.
 
 -->3_3Cost_Volatility.ipynb
 This notebook applies different trading methodologies for different 
-portfolio allocations. It does it both with and without rebalancing.
- 
+portfolio allocations in order to find the volatility metric for each of
+the portfolio allocations, using the training methodologies, with and
+without rebalance. 
+
+HOW TO RUN:
+This notebook was written in Python 3.7.10, in the google colab 
+platform. In order to run it, it is necessary to modify the path to 
+the relevant google drive folder of the person trying to run the code.
+Also the necessary CSV files need to be added to the same path.
 
 --> 4_1return.ipynb
 DESCRIPTION:
